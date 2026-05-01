@@ -25,7 +25,7 @@ const Banner = () => {
                   
           <span className='bg-[#DAF6EB] p-2 rounded-full flex items-center justify-center'>
 
-          <img className='w-3 h-3'  src={icon}
+          <img className='w-5 h-5'  src={icon}
           alt="icon" />
 
           </span>
