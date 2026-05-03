@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const Services = () => {
+const Service = () => {
   return (
     
   <section className="bg-[#EAF7F3] py-18">
@@ -210,5 +210,5 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Service;
       
