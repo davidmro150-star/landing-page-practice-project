@@ -4,6 +4,7 @@ import Banner from './assets/Components/Banner'
 import Experience from './assets/Components/Experience/Experience'
 import Service from './assets/Components/Service/Service'
 import Latest from './assets/Components/Latest/Latest'
+import Project from './assets/Components/Project/Project'
 
 
 const App = () => {
@@ -14,7 +15,8 @@ const App = () => {
         <Banner />
         <Experience />
         <Service />
-        <Latest/>
+        <Latest />
+        <Project/>
       </div>
       
     </>
