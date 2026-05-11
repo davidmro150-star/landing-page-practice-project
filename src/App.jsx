@@ -8,6 +8,7 @@ import Project from './assets/Components/Project/Project'
 import Business from './assets/Components/Business/Business'
 import Client from './assets/Components/Client/Client'
 import Today from './assets/Components/Today/Today'
+import Footer from './assets/Components/Footer/Footer'
 
 
 const App = () => {
@@ -22,7 +23,8 @@ const App = () => {
         <Project />
         <Business />
         <Client />
-        <Today/>
+        <Today />
+        <Footer/>
       </div>
       
     </>
