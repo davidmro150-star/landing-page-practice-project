@@ -26,7 +26,7 @@ const App = () => {
         <Project />
         <Business />
         <Client />
-        <Today />
+     <Today/>
  <Footer/>
       </div>
       
